@@ -1,2 +1,2 @@
-# skyline_tech table1
-table is for recording of students grade.
+# skyline_tech table2
+this table is for skyline ICT Student records
